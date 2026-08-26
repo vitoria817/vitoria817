@@ -1,7 +1,7 @@
 # 🌸 Vitória Gabriela
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=28&duration=3000&pause=1000&color=E6A6C8&center=true&vCenter=true&width=700&lines=Vit%C3%B3ria+Gabriela+%E2%99%A1;Desenvolvedora+%E2%9C%A8;Java+%7C+JavaScript+%7C+SQL;Tecnologia+%7C+Programa%C3%A7%C3%A3o+%7C+Backend+%F0%9F%8C%B7" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=28&duration=3000&pause=1000&color=E6A6C8&center=true&vCenter=true&width=700&lines=Vit%C3%B3ria+Gabriela+%E2%99%A1;Desenvolvedora+%E2%9C%A8;Java+%7C+JavaScript+%7C+C+%7C+SQL;Tecnologia+%7C+Programa%C3%A7%C3%A3o+%7C+Backend+%F0%9F%8C%B7" />
 </p>
 
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitoria817&label=visitas&color=E8A9C9&style=flat" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=vitoria817&label=visitas&color=E8A9C9&style=flat" /> 
+</p> 
 
 ---
 
@@ -22,7 +22,7 @@
 
 🌸 Tenho experiência com diferentes tecnologias, principalmente voltadas para desenvolvimento de sistemas, banco de dados e aplicações web.
 
-✨ Meu foco é desenvolvimento de sistemas, **Java, JavaScript, SQL e backend**.
+✨ Meu foco é desenvolvimento de sistemas, **Java, JavaScript, C, SQL e backend**.
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 🌸 Linguagens
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,js,c,html,css" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -48,7 +48,7 @@
 
 <p align="center">
 
-`JasperStudio`　`PowerBuilder`
+`Code::Blocks`　`JasperStudio`　`PowerBuilder`
 
 </p>
 
@@ -59,6 +59,8 @@
 ```text
 Java          ███████████████████░░
 JavaScript    ████████████████░░░░░
+C             ███████████████░░░░░░
 SQL           █████████████████░░░░
 Backend       ███████████████░░░░░░
 Git & GitHub  ████████████░░░░░░░░░
+```
