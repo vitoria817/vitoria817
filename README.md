@@ -43,12 +43,12 @@
 ### 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,figma,jira" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,figma,jira,confluence" />
 </p>
 
 <p align="center">
 
-`Code::Blocks`　`JasperStudio`　`PowerBuilder`　`Confluence`
+`Code::Blocks`　`JasperStudio`　`PowerBuilder`
 
 </p>
 
